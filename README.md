@@ -55,6 +55,7 @@ The dataset contains **50,000 food orders** and includes the following attribute
 - Average Order Value
 - Average Delivery Fee
 - Average Customer Rating
+---
 
 ### 📈 Visualizations
 
@@ -65,6 +66,7 @@ The dataset contains **50,000 food orders** and includes the following attribute
 - Delivery Time by City
 - Restaurant Type Distribution
 - Repeat Orders Analysis
+---
 
 ### 🎛️ Interactive Filters
 
