@@ -167,5 +167,3 @@ Food-Ordering-Behaviour-Analysis/
 This project was developed for educational and internship purposes using Tableau Public.
 
 ---
-
-## ⭐ If you found this project useful, don't forget to give it a Star!
