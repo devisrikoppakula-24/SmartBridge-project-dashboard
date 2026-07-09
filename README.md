@@ -78,20 +78,7 @@ The dataset contains **50,000 food orders** and includes the following attribute
 ---
 
 ## 📷 Dashboard Preview
-
-> Add a screenshot of your dashboard here.
-
-Example:
-
-```
-https://github.com/devisrikoppakula-24/SmartBridge-project-dashboard/blob/main/Screenshot%202026-07-09%20103156.png
-```
-
-After uploading the image to GitHub, replace this section with:
-
-```markdown
-https://github.com/devisrikoppakula-24/SmartBridge-project-dashboard/blob/main/Screenshot%202026-07-09%20103156.png
-```
+<img width="1012" height="878" alt="Screenshot 2026-07-09 103156" src="https://github.com/user-attachments/assets/3f829f82-eae3-4a51-b838-584c71192547" />
 
 ---
 
