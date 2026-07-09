@@ -82,13 +82,13 @@ The dataset contains **50,000 food orders** and includes the following attribute
 Example:
 
 ```
-Screenshot%202026-07-09%20103156.png
+https://github.com/devisrikoppakula-24/SmartBridge-project-dashboard/blob/main/Screenshot%202026-07-09%20103156.png
 ```
 
 After uploading the image to GitHub, replace this section with:
 
 ```markdown
-Screenshot%202026-07-09%20103156.png
+https://github.com/devisrikoppakula-24/SmartBridge-project-dashboard/blob/main/Screenshot%202026-07-09%20103156.png
 ```
 
 ---
