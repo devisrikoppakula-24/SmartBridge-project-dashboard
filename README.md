@@ -82,13 +82,13 @@ The dataset contains **50,000 food orders** and includes the following attribute
 Example:
 
 ```
-dashboard.png
+Screenshot%202026-07-09%20103156.png
 ```
 
 After uploading the image to GitHub, replace this section with:
 
 ```markdown
-![Dashboard](dashboard.png)
+Screenshot%202026-07-09%20103156.png
 ```
 
 ---
